@@ -22,6 +22,14 @@ export default function IndexPage() {
               size="md"
               src=""
           />
+          <div className="bg-black p-4">
+          <Avatar
+              isBordered
+              color="danger"
+              showFallback
+              size="md"
+              src=""
+          />
           </div>
           <span className={title()}>Make&nbsp;</span>
           <span className={title({ color: "violet" })}>beautiful&nbsp;</span>
