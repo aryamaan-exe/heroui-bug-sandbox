@@ -22,6 +22,7 @@ export default function IndexPage() {
               size="md"
               src=""
           />
+          </div>
           <div className="bg-black p-4">
           <Avatar
               isBordered
